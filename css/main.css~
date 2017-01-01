@@ -1,0 +1,25 @@
+/* css/main.css */
+
+
+div#mariposa {
+	background-image: url("../img/mariposa.png");
+	width: 70px;
+	background-repeat: no-repeat;
+	height: 135px;	
+	position: absolute;
+	}
+
+div#mariposa{
+	left: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
