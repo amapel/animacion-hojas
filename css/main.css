@@ -18,16 +18,25 @@ nav{
 	font-size: 1.5em;
 }
 
-
-nav h2{
-	color: #F9F0ED;
+nav a{
+	color: #F9F0ED;/* rosa claro*/
+}
+nav a:hover{
+	color: #DE6878;/*rosa fuerte*/
 }
 nav li a{
-	color: #DE6878;
+	color: #F9F0ED;
 }
 
 .navbar-toggle{
 	background-color: #DE6878 !important;
+}
+.icon-bar{
+	background-color: #F9F0ED;
+}
+
+#navbar li a:hover{
+	color: #AA2239;
 }
 section{
 	top: 2em;
